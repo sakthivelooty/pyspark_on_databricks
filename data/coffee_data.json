@@ -1,0 +1,30 @@
+[
+  {
+    "coffee": {
+      "region": [
+        {"id": 1, "name": "John Doe"},
+        {"id": 2, "name": "Don Joeh"}
+      ],
+      "country": {"id": 2, "company": "ACME"}
+    },
+    "brewing": {
+      "region": [
+        {"id": 1, "name": "John Doe"},
+        {"id": 3, "name": "Jane Smith"}
+      ],
+      "country": {"id": 2, "company": "ACME"}
+    }
+  },
+  {
+    "coffee": {
+      "region": [
+        {"id": 4, "name": "Anna Lee"}
+      ],
+      "country": {"id": 5, "company": "CoffeeCorp"}
+    },
+    "brewing": {
+      "region": null,
+      "country": {"id": 6, "company": "BrewCo"}
+    }
+  }
+]
